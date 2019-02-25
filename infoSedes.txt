@@ -1,23 +1,56 @@
-Sede: 
-Direccion: kr 145-32
-Telefono: 6895178
-Area Construida: 52.0
-Nombre del curso mas popular: 
-Sede: 
-Direccion: kr 145 b 138
-Telefono: 6895178
-Area Construida: 52.0
-Numero de Programas con registro de alta calidad: 1
+Profesional
+sede: Bogota
+direccion: asdas
+telefono: 6562
+area Construida: 2.0
+numero de Programas con registro de alta calidad: 1
+programas: 
+nombre del Programa: 
+tipo: 
+descripcion: sadadfdadfas
+
+Profesional
+sede: chia
+direccion: holi
+telefono: 555 5555
+area Construida: 31.0
+numero de Programas con registro de alta calidad: 5
 Programas: 
-Nombre del Programa: 
-tipo: PROFESIONAL
-Descripcion: oidasjfoians nsdasnko�n 
-Sede: 
-Direccion: kr45-h562
-Telefono: 6895178
-Area Construida: 46.0
-Numero de Programas con registro de alta calidad: 5
+nombre del Programa: 
+tipo: profesional
+descripcion: asdassgsadf a
+
+Profesional
+sede: soacha
+direccion: oasjiodnkasojdi 
+telefono: 126565654
+area Construida: 54.0
+numero de Programas con registro de alta calidad: 54
 Programas: 
-Nombre del Programa: 
+nombre del Programa: 
 tipo: tecnologico
-Descripcion: skjfhjasodihfasji isadnfk �asjdirhna
+descripcion: sadfasd as
+
+Profesional
+sede: venezuela
+direccion: skjdasl�dm
+telefono: 65656564
+area Construida: 65.0
+numero de Programas con registro de alta calidad: 45
+Programas 
+nombre del Programa: 
+tipo: kjansdklandm a
+descripcion: sajondasjdbn an a 55 asjndasmdas
+null
+
+Profesional
+sede: venezuelaz
+direccion: skjdasl�dm
+telefono: 65656564
+area Construida: 65.0
+numero de Programas con registro de alta calidad: 45
+Programas 
+nombre del Programa: 
+tipo: kjansdklandm a
+descripcion: sajondasjdbn an a 55 asjndasmdas
+null
